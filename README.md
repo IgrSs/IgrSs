@@ -55,4 +55,6 @@ e principalmente o aprendizado, que com ele, é capaz de chegar a qualquer lugar
 - Angular
 - Python 
 ---
-
+### 📑Currículo :
+<a href="https://github.com/IgrSs/IgrSs/blob/main/Curriculo%20(1).pdf">Currículo</a>
+<br>
