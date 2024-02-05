@@ -74,8 +74,8 @@ Foi utilizado um clean code com response, toResponse, service e etc.
 
 ---
 ### 🚧 Em Andamento 
-- Angular
-- Python 
+- Angular <img src="https://github.com/IgrSs/IgrSs/blob/main/loading.gif" width="18">
+- Python <img src="https://github.com/IgrSs/IgrSs/blob/main/loading.gif" width="18">
 ---
 ### 📑Currículo :
 <a href="https://github.com/IgrSs/IgrSs/blob/main/Curriculo%20(1).pdf">Currículo</a>
