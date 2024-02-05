@@ -62,7 +62,7 @@ Front-end: HTML, CSS, JavaScript
 Controle de Versão: Git
 Este sistema permite aos usuários criar, visualizar, editar e excluir tarefas, fornecendo uma interface amigável e responsiva.
 
-Projeto 2: Controle De entrada e Saidas de Dados
+Projeto 2: API Controle De entrada e Saidas de Dados
 
 Desenvolvi um aplicativo de Controle De entrada e Saidas de Dados como um projeto pessoal para aprimorar minhas habilidades em desenvolvimento. Aqui estão as principais tecnologias envolvidas:
 
