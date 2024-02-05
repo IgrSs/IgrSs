@@ -51,6 +51,29 @@ e principalmente o aprendizado, que com ele, é capaz de chegar a qualquer lugar
 </div>
 
 ---
+### :fire: Meus Princiapais Projetos :
+
+Projeto 1: Sistema de Loja de carros
+
+O projeto de Sistema de Loja de carros foi desenvolvido como parte do meu curso de Desenvolvimento de Software. Utilizei as seguintes tecnologias e ferramentas:
+
+Framework Web: VsCode
+Banco de Dados: MYSQL
+Front-end: HTML, CSS, JavaScript
+Controle de Versão: Git
+Este sistema permite aos usuários criar, visualizar, editar e excluir tarefas, fornecendo uma interface amigável e responsiva.
+
+Projeto 2: Controle De entrada e Saidas de Dados
+
+Desenvolvi um aplicativo de Controle De entrada e Saidas de Dados como um projeto pessoal para aprimorar minhas habilidades em desenvolvimento. Aqui estão as principais tecnologias envolvidas:
+
+Linguagem de Programação: Java
+Framework: IntelliJ IDEA
+Banco de Dados: MYSQL
+Este sistema proporciona uma gestão eficiente de dados de entrada e saída, permitindo o registro, visualização e edição de informações de forma organizada. A interface amigável e responsiva otimiza a interação do usuário com o sistema.
+Foi utilizado um clean code com response, toResponse, service e etc.
+
+---
 ### 🚧 Em Andamento 
 - Angular
 - Python 
